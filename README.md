@@ -29,6 +29,6 @@ https://github.com/mohammad228/Broken_WebApplication.git
 
 2.8 Run following command for create table of application(Migrate): php artisan migrate
 
-2.9 Then you could go to http://localhost and signUp and enjoy the App
+2.9 Then you could go to http://localhost. signUp and enjoy the App
 
 Contact me : mohammadhooshmand73@gmail.com 
